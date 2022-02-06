@@ -1,0 +1,23 @@
+{
+  "name": "01-Estructura-de-datos",
+  "version": "1.0.0",
+  "description": "![logop5](https://p5-hall-of-fame.s3.amazonaws.com/p5logo.png)",
+  "main": "02_linkedlist.js",
+  "scripts": {
+    "test": "testem"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plataforma5/01-Estructura-de-datos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plataforma5/01-Estructura-de-datos/issues"
+  },
+  "homepage": "https://github.com/Plataforma5/01-Estructura-de-datos#readme",
+  "dependencies": {
+    "testem": "^3.4.0"
+  }
+}
